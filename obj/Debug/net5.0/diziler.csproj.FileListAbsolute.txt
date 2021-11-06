@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\diziler.exe
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\diziler.deps.json
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\diziler.runtimeconfig.json
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\diziler.runtimeconfig.dev.json
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\diziler.dll
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\ref\diziler.dll
+D:\yazılım\pratikler\diziler\bin\Debug\net5.0\diziler.pdb
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.AssemblyInfo.cs
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.dll
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\ref\diziler.dll
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.pdb
+D:\yazılım\pratikler\diziler\obj\Debug\net5.0\diziler.genruntimeconfig.cache
